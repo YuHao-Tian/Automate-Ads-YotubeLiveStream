@@ -2,6 +2,7 @@
 *Powered by Youtube APIs.	
 This app is used for automatically adding ads for Youtube Live Stream.
 On the app's panel, you will see three sections: Select secret files, Enter broadcast ID and Set interval times in seconds.
+![alt text](https://github.com/YuHao-Tian/Automate-Ads-YotubeLiveStream/blob/main/exe.jpg?raw=true)
 
 What is secret files? Secret files, also known as OAuth 2.0 Client IDs, are a part of the authentication and authorization process used in the YouTube API. OAuth 2.0 is an open standard protocol that allows applications to access user data from various services, such as YouTube, without directly handling the user's credentials.
 
